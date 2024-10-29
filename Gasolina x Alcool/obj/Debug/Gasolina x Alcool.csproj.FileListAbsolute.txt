@@ -1,0 +1,10 @@
+C:\Users\tikteli\Downloads\Codificados\Gasolina x Alcool\bin\Debug\Gasolina x Alcool.exe.config
+C:\Users\tikteli\Downloads\Codificados\Gasolina x Alcool\bin\Debug\Gasolina x Alcool.exe
+C:\Users\tikteli\Downloads\Codificados\Gasolina x Alcool\bin\Debug\Gasolina x Alcool.pdb
+C:\Users\tikteli\Downloads\Codificados\Gasolina x Alcool\obj\Debug\Gasolina x Alcool.csproj.AssemblyReference.cache
+C:\Users\tikteli\Downloads\Codificados\Gasolina x Alcool\obj\Debug\Gasolina_x_Alcool.Form1.resources
+C:\Users\tikteli\Downloads\Codificados\Gasolina x Alcool\obj\Debug\Gasolina_x_Alcool.Properties.Resources.resources
+C:\Users\tikteli\Downloads\Codificados\Gasolina x Alcool\obj\Debug\Gasolina x Alcool.csproj.GenerateResource.cache
+C:\Users\tikteli\Downloads\Codificados\Gasolina x Alcool\obj\Debug\Gasolina x Alcool.csproj.CoreCompileInputs.cache
+C:\Users\tikteli\Downloads\Codificados\Gasolina x Alcool\obj\Debug\Gasolina x Alcool.exe
+C:\Users\tikteli\Downloads\Codificados\Gasolina x Alcool\obj\Debug\Gasolina x Alcool.pdb
