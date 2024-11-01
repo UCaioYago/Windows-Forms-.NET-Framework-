@@ -1,0 +1,10 @@
+C:\Users\tikteli\Documents\Codificados\formulário Padrão\bin\Debug\formulário Padrão.exe.config
+C:\Users\tikteli\Documents\Codificados\formulário Padrão\bin\Debug\formulário Padrão.exe
+C:\Users\tikteli\Documents\Codificados\formulário Padrão\bin\Debug\formulário Padrão.pdb
+C:\Users\tikteli\Documents\Codificados\formulário Padrão\obj\Debug\formulário Padrão.csproj.AssemblyReference.cache
+C:\Users\tikteli\Documents\Codificados\formulário Padrão\obj\Debug\formulário_Padrão.Form1.resources
+C:\Users\tikteli\Documents\Codificados\formulário Padrão\obj\Debug\formulário_Padrão.Properties.Resources.resources
+C:\Users\tikteli\Documents\Codificados\formulário Padrão\obj\Debug\formulário Padrão.csproj.GenerateResource.cache
+C:\Users\tikteli\Documents\Codificados\formulário Padrão\obj\Debug\formulário Padrão.csproj.CoreCompileInputs.cache
+C:\Users\tikteli\Documents\Codificados\formulário Padrão\obj\Debug\formulário Padrão.exe
+C:\Users\tikteli\Documents\Codificados\formulário Padrão\obj\Debug\formulário Padrão.pdb
