@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SintetizadorDeVoz", "SintetizadorDeVoz.csproj", "{077B8D23-CC1E-4D8B-A60D-21D899484DD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{077B8D23-CC1E-4D8B-A60D-21D899484DD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{077B8D23-CC1E-4D8B-A60D-21D899484DD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{077B8D23-CC1E-4D8B-A60D-21D899484DD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{077B8D23-CC1E-4D8B-A60D-21D899484DD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A900A4E4-05C0-4897-B3AA-D795A1BF6CAD}
+	EndGlobalSection
+EndGlobal
